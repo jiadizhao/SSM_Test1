@@ -1,0 +1,8 @@
+com\zhaofan\dao\UserDao.class
+com\zhaofan\dao\RoleDao.class
+com\zhaofan\dao\TravellerDao.class
+com\zhaofan\dao\PermissionDao.class
+com\zhaofan\dao\OrdersDao.class
+com\zhaofan\dao\ProductDao.class
+com\zhaofan\dao\MemberDao.class
+com\zhaofan\dao\SysLogDao.class

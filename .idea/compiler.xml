@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lanqiao_items_dao" />
+        <module name="lanqiao_items_domain" />
+        <module name="lanqiao_items_service" />
+        <module name="lanqiao_items_utils" />
+        <module name="lanqiao_items_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lanqiao_items" target="1.5" />
+      <module name="lanqiao_items_dao" target="1.5" />
+      <module name="lanqiao_items_domain" target="1.5" />
+      <module name="lanqiao_items_service" target="1.5" />
+      <module name="lanqiao_items_utils" target="1.5" />
+      <module name="lanqiao_items_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

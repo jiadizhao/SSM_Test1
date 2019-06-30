@@ -1,0 +1,12 @@
+com\zhaofan\service\PermissionService.class
+com\zhaofan\service\Impl\OrdersServiceImpl.class
+com\zhaofan\service\UserService.class
+com\zhaofan\service\Impl\RoleServiceImpl.class
+com\zhaofan\service\Impl\SysLogServiceImpl.class
+com\zhaofan\service\ProductService.class
+com\zhaofan\service\RoleService.class
+com\zhaofan\service\Impl\ProductServiceImpl.class
+com\zhaofan\service\OrdersService.class
+com\zhaofan\service\Impl\PermissionServiceImpl.class
+com\zhaofan\service\Impl\UserServiceImpl.class
+com\zhaofan\service\SysLogService.class

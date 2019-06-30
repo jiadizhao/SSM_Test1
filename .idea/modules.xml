@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/lanqiao_items.iml" filepath="$PROJECT_DIR$/.idea/lanqiao_items.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiao_items_dao/lanqiao_items_dao.iml" filepath="$PROJECT_DIR$/lanqiao_items_dao/lanqiao_items_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiao_items_domain/lanqiao_items_domain.iml" filepath="$PROJECT_DIR$/lanqiao_items_domain/lanqiao_items_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiao_items_service/lanqiao_items_service.iml" filepath="$PROJECT_DIR$/lanqiao_items_service/lanqiao_items_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiao_items_utils/lanqiao_items_utils.iml" filepath="$PROJECT_DIR$/lanqiao_items_utils/lanqiao_items_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiao_items_web/lanqiao_items_web.iml" filepath="$PROJECT_DIR$/lanqiao_items_web/lanqiao_items_web.iml" />
+    </modules>
+  </component>
+</project>
